@@ -1,0 +1,4 @@
+#Fri Oct 07 17:08:11 EEST 2022
+base.0=D\:\\Facultate anul 3\\IMR (Introducere in realitatea mixta)\\IMR_2022-2023\\S1\\Tema1IMR\\Library\\Bee\\Android\\Prj\\IL2CPP\\Gradle\\launcher\\build\\intermediates\\dex\\release\\mergeDexRelease\\classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
