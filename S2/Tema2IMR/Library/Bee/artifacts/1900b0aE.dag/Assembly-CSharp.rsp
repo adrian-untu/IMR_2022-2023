@@ -382,12 +382,12 @@
 -r:"Library/Bee/artifacts/1900b0aE.dag/UnityEngine.SpatialTracking.ref.dll"
 -r:"Library/Bee/artifacts/1900b0aE.dag/UnityEngine.UI.ref.dll"
 -r:"Library/Bee/artifacts/1900b0aE.dag/UnityEngine.XR.LegacyInputHelpers.ref.dll"
-"Assets/CollisionDetection.cs"
-"Assets/HMDInfoManager.cs"
+"Assets/Scripts/CollisionDetection.cs"
+"Assets/Scripts/HMDInfoManager.cs"
+"Assets/Scripts/ScoreMaintenance.cs"
 "Assets/sumScore/Example/SumScoreExample.cs"
 "Assets/sumScore/Scripts/SumScore.cs"
 "Assets/sumScore/Scripts/SumScoreManager.cs"
-"Assets/UIManager.cs"
 -langversion:9.0
 
 /deterministic

@@ -1,0 +1,1 @@
+Scripturile aferente temei 3, fisierul .fbx al mainii si tot ce am mai modificat sunt in folderul "S2", intrucat nu am mai facut un nou proiect ci l-am continuat pe cel vechi. In folderul "S3" avem doar videoclipul demonstrativ.
